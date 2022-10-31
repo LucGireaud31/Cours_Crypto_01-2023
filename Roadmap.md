@@ -10,7 +10,7 @@ _Résumé : La roadmap pour les TD de crypto de BUT de 1ère année_
 # Nos questionnements
 
 - Sur quel support on va parler ?
-- Comment les faire bosser en autonomie ?
+- Comment les faire bosser en autonomie ? (utile ?)
 
 # Idées random
 
@@ -18,26 +18,15 @@ _Résumé : La roadmap pour les TD de crypto de BUT de 1ère année_
 
 # TD1
 
-- Présentation de nos cours
-
-  - Sommaire de ce qu'on va voir
-  - L'organisation des cours
-    - Utilisation de la méthode Pomodoro pour être plus efficace
-    - Poser des questions qu'on répondra au fur et à mesure dans nos TDs
-    - QCM en fin de session (est ce qu'on leur dit que c'est noté ?)
-  - La méthode d'enseignement
-    - On est responsable de vos resultats, de mauvaises méthodes
-
-- Notre parcours
-
-  - Le parcours scolaire en bref
-  - Pourquoi on est ammené à faire prof
-
-- Introduction
-  - Pk la crypto existe ?
-  - Qu'est ce qu'une crypto
+- [Cours](/TD1/TD1.md)
+- [Pause](TD1/Pause.md)
+- [Questions_réponses](TD1/Questions_réponses.md)
+- [Contrôle](TD1/Contrôle.md)
+- [Correction](TD1/TD1.md)
 
 # TD2
+
+## Cours
 
 - Cryptomonnaies
 
@@ -53,6 +42,8 @@ _Résumé : La roadmap pour les TD de crypto de BUT de 1ère année_
 - DEFI
 
 # TD3
+
+## Cours
 
 - Investissement crypto
   - Principe de Pareto
