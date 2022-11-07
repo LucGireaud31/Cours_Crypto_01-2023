@@ -21,6 +21,7 @@ _Résumé : La roadmap pour les TD de crypto de BUT de 1ère année_
 - [Cours](/TD1/TD1.md)
 - [Pause](TD1/Pause.md)
 - [Questions_réponses](TD1/Questions_réponses.md)
+- [Annecdotes](TD1/Concours_d'anecdotes.md)
 - [Contrôle](TD1/Contrôle.md)
 - [Correction](TD1/TD1.md)
 
