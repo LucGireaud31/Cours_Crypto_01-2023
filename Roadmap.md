@@ -29,18 +29,7 @@ _Résumé : La roadmap pour les TD de crypto de BUT de 1ère année_
 
 ## Cours
 
-- Cryptomonnaies
-
-  - Volatilité
-  - Décentralisation
-  - Minage
-  - Token
-  - Sécurité
-    - Les risques
-    - Comment s'en protéger
-  - Le halving du BTC
-
-- DEFI
+- [TD2](./TD2/TD2.md)
 
 # TD3
 

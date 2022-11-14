@@ -1,3 +1,8 @@
+# Est ce que les points BK sont une monnaie ?
+
+Non car les points disparaissent avec le temps.
+Pour être une monnaie, il faudrait que ces points puissent être stockées sur une durée indéfinie.
+
 # Elon musk à une crypto monnaie
 
 On pense qu'il a crée le dodge coin, pas du tout !

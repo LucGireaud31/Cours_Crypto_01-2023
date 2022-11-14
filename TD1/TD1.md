@@ -4,56 +4,84 @@
 | --------- | -------------------- |
 | 5 min     | Chauffer son cerveau |
 | 5-10 min  | Anecdotes            |
-| 25 min    | Cours                |
-| 0-25 min  | Q&A                  |
+| 50 min    | Cours obèse          |
 | 5 min     | Pause random         |
 | 5-10 min  | Contrôle             |
 | 10-25 min | Correction           |
 
 # Cours
 
+---
+
 ## Présentation de nos cours
 
 - Sommaire
-- L'organisation des cours
-  - Découpage des cours
-  - Poser des questions qu'on répondra au fur et à mesure dans nos TDs
-  - contrôle en fin de session (leurs dire que le contrôle final reprendra les questions des contrôles intermédiaires)
+  - Révision sur la monnaie <!-- element class="fragment" -->
+    - Définition <!-- element class="fragment" -->
+    - Utilisation <!-- element class="fragment" -->
+    - Son évolution <!-- element class="fragment" -->
+    - Les types de monnaies <!-- element class="fragment" -->
+    - Les limites du système monétaure actuel <!-- element class="fragment" -->
+  - Cryptomonnaies
+    - Pourquoi la crypto existe <!-- element class="fragment" -->
+    - La blockchain <!-- element class="fragment" -->
+    - Qu'est-ce qu'une crypto <!-- element class="fragment" -->
+    - Fonctionnement du système crypto vs banque <!-- element class="fragment" -->
+    - Avantages et inconvénients de l'univers crypto <!-- element class="fragment" -->
+    - La cryptographie ausin de la cryptomonnaies <!-- element class="fragment" -->
+    - Les différents types de cryptomonnaie <!-- element class="fragment" -->
+- L'organisation des cours <!-- element class="fragment" -->
+  - Découpage des cours <!-- element class="fragment" -->
+  - Poser des questions qu'on répondra au fur et à mesure dans nos TDs <!-- element class="fragment" -->
+  - contrôle en fin de session (leurs dire que le contrôle final reprendra les questions des contrôles intermédiaires) <!-- element class="fragment" -->
+
+--
 
 ## Notre parcours
 
 - Le parcours scolaire en bref
-  - Bac S SI avec ISN
-  - DUT Informatique (avec alternance pour nico)
-    - Préciser que cela donne un avantage pour avoir de futurs alternances
-  - Licence professionnelle APSIO
-    - Mémoire sur la blockchain
-    - Donner le lien du mémoire pour ceux qui veulent la blockchain
+  - Bac S SI avec ISN <!-- element class="fragment" -->
+  - DUT Informatique (avec alternance pour nico) <!-- element class="fragment" -->
+  - Licence professionnelle APSIO <!-- element class="fragment" -->
+    - Mémoire sur la blockchain <!-- element class="fragment" -->
+    - Donner le lien du mémoire pour ceux qui veulent la blockchain <!-- element class="fragment" -->
 
-## Révision monnaie
+---
 
-### Définition
+# Révision monnaie
+
+--
+
+### Définition de la monnaie
 
 La monnaie est définie comme chaque item ou moyen d'échange qui est accepté par des personnes pour la paiment de biens, de services ou de dettes.
 
+--
+
 ### Utilisation
 
-- Echanges
+- Pour les échanges
 - Pour comparer
 - Réserve de valeur (conserver pour de futurs échanges)
 
-4 types de monnaies
+--
+
+### Son évolution
+
+Au fil des années, on remarque une dématérialisation de la monnaie => Cheques => (CB, virements, etc...)
+
+--
+
+### 4 types de monnaies
 
 - Divisionnaires : La valeur inscrite sur la pièce reflète une fractions de la monnaie (50 sur 50c ne veut pas dire 50€ mais 0.50€).
 - Fiduciaire : Une pièce de 1 euro ou 2 euros (ce qu'il y a écrit sur la pièce reflète exactement son prix).
 - Scripturale : C'est le nombre (ou chiffre pour les pauvres) sur le compte à banque.
 - Monnaie digitales :
-  - Cryptomonnaies
-  - Monnaies dans des jeux
+  - Cryptomonnaies.
+  - Monnaies dans des jeux.
 
-### Ses améliorations
-
-Au fil des années, on remarque une dématérialisation de la monnaie => Cheques => (CB, virements, etc...)
+--
 
 ### Ses limites
 
@@ -63,13 +91,18 @@ Sur la plupart des banques les paiments ne sont pas instantannées ou l'utilisat
 
 Plusieurs personnes ont encore un manque de donnée concernant les moyen de paiments digitaux notamment dans les économies en développement.
 
-Malgrès les surveillances sur les moyens de paiments digitaux, les fraudes continue de persister avec le cash notamment.
+Malgrè les surveillances sur les moyens de paiments digitaux, les fraudes continue de persister avec le cash notamment.
 
-Malgrès les récentes avancées pour la plupart des banques les paiments internationaux sont très chers et souvent lents.
+Malgrè les récentes avancées pour la plupart des banques les paiments internationaux sont très chers et souvent lents.
 
-[Inflation Vénézula](https://fr.tradingeconomics.com/venezuela/inflation-cpi)
+![](https://d3fy651gv2fhd3.cloudfront.net/charts/venezuela-inflation-cpi.png?s=vnvpiyoy&v=202211051000V20220312&lang=all&d1=20171114)
+Source : [TradingEconomics.com](https://fr.tradingeconomics.com/venezuela/inflation-cpi)
+
+---
 
 # Cryptomonnaies
+
+--
 
 ## Pourquoi la crypro existe ?
 
@@ -86,15 +119,44 @@ La cryptomonnaie existe à car il y'a un besoin conséquent de vie privé en eff
 
 La cryptomonnaies est donc issue d'une volonté de reprendre le contrôle sur la monnaie qui est le fondement de toute société, sans avoir besoin de tiers comme les banques centrales ou banques commerciales. En effet si on prend du krach de 2008 avec les subprimes à qui la faute est principalement attribué aux banques commerciales.
 
+--
+
+## La blockchain
+
+La cryptomonnaie repose sur la blockchain, c'est une base de données partagée entre plusieurs personnes. Il existe un ensemble de règles qui régissent.
+
+### Que permet la blockchain ?
+
+--
+
 ## Qu'est ce qu'une cryptomonnaie ?
 
 C'est une monnaie qui fonctionne à l'aide d'un réseau décentralisé afin de faire des transactions paires a paires.
 Elle se base sur des procédés cryptographiques tel que le hash, etc...
 Il en existe 20 000 différentes ( source ? ).
 
-## Fonctionnement du système monétaire crypto
+--
+
+## Que permet la cryptomonnaie ?
+
+### NFTs
+
+C'est un token qui n'existe qu'en 1 seul exemplaire, il est atomique (pas divisible en sous parties) et pas interchangeable (un NFT ne vaut pas un autre NFT, même si ce sont tous les 2 des images)
+Le principe est de lier une image, un audio, une vidéo a un token qui est unique. C'est une sorte de certificat d'authenticité. Il est inscrit dans la blockchain et tous le monde peut savoir en temps réel qui possède tel NFT.
+
+Cela s'apparente au marché de l'art, la joconde vaut des millions mais je peux acheter un poster pour 5€ chez monoprix
+
+### Le minage
+
+L'or est limuté, effort de minage et économie derriere, btc a fait pareil.
+C'est un PC qui fait tourner un algo complexe, cet effort est récompensé par du BTC qui provient des frais de transactions et de la **création monétaire**. C'est appellé la preuve de travail ou Proof Of Work.
+Cela permet de prouver qu'on a depensé de la puissance de calcul pour faire partie de la blockchain
+
+## Fonctionnement du système monétaire crypto vs banques
 
 Dire qu'en gros les banques centrales et banques sont supprimé et qu'on se retrouve avec juste un système centrale avec lequel les intéragissent. Préciser que ce zoom est à l'échelle d'une banque centrale / pays.
+
+--
 
 ## Les avantages et inconvénients de l'univers crypto
 
@@ -115,69 +177,19 @@ L'adaptabilité ✅ : Le principal avantage ici c'est que l'écosystème est pro
 
 L'ouverture ( cross border exchange) ✅ : Les cryptomonnaies sont de bases dans cross border
 
-## La blockchain
+--
 
-La cryptomonnaie repose sur la blockchain, c'est une grosse base de données décentralisée, c'est à dire qu'il y a plusieurs serveurs qui se partagent les mêmes données.
-Pour imager, c'est une sorte de livre qui garde en mémoire toutes les transactions faites depuis sa creation.
-Les transactions sont regroupées dans des blocs.
-La blockchain est un livre, un bloc une page, une transaction une ligne.
+## Les coins
 
-> "_Les acteurs du réseau, appelés nœuds, possèdent, stockent et vérifient leurs propres versions de la chaine, depuis le tout premier bloc (appelé bloc genèse). Une blockchain est considérée comme valide lorsqu’il est possible de la vérifier totalement en partant du bloc genèse. Comme il n'y a pas d'autorité centrale ou de tiers de confiance, le système est dit décentralisé. Pour garantir l'immuabilité de la chaine, c'est-à-dire qu'il n'y a pas eu de modification dans un ancien bloc, ceux-ci sont chainés entre eux par des fonctions cryptographiques de hachage._"
+https://academy.binance.com/en/articles/how-to-create-your-own-cryptocurrency
 
-- Auteur inconnu, [[https://fr.m.wikipedia.org/wiki/Cryptomonnaie]]
+Ce sont les cryptomonnaies que nous connaissons (BTC, ETH, WAVES), ils reposent sur leur propre blockchain qui à souvent le même nom que la crypto.
+Ils sont utiles au fonctionnement de la blockchain, notamment avec les frais de transaction.
+Ces frais sont appliqués pour chaque transactions et permettent de :
 
-On ne va pas plus rentrer dans les détails pour la blockchain, ce TD est sur les cryptomonnaies, si ca vous intéresse vous pouvez lire notre mémoire qui se concentre principalement sur la blockchain.
+1. Éviter les utilisateurs de spammer la blockchain
+2. Remunérer les mineurs
 
-## Cryptographie
+## Les tokens
 
-On appelle ca une **crypto**monnaie car elle repose sur des principes cryptographiques
-
-## Les stable coins
-
-source : https://cryptoast.fr/stablecoin-cryptomonnaie-indexee-autres-actifs-proteger-volatilite/
-
-Il existe des crypromonnaies stables, elles répliquent le prix d'une monnaie(euro, dollars, BTC, etc...).
-
-### Leurs utilité
-
-- Permet de faire des transactions de cryptos sans ses points négatifs (volatilité notamment), est ce que ce ne serait pas l'avenir des cryptos ?
-- Echanger des actifs, partout dans le monde et meme dans des endroits ou le dollars americain peut etre difficile à obtenir ou dont la devise locale est instable (exemple d'un pays qui a une inflation à 1000%). Quand on entend parler des cryptos sans l'aspect investissement, c'est pour l'echange d'argent rapide sans passer par des banques, le probleme etant la volatilité : le stablecoin peut gérer ce probleme.
-- Eviter les taxes en vendant une crypto pour en racheter une autre => passer par une crypto permet de ne pas déclarer a chaque fois qu'on vend.
-- Certaines plateforme centralisée (binance) proposent de stacker ces stablecoins contre des interets.
-
-### Les 3 types de stable coins
-
-#### Stablecoin centralisé
-
-Mime une monnaie fiat ou d.
-La valeur des tokens est garantie par des reserves exterieur comme une reserve de dollars de l'entreprise emmetrice (celle qui cree le stablecoin), des obligations, actions, etc...
-Cette réserve permet de tanker les fortes ventes (si 10% des cryptos sont vendus, il faut que la tresorerie puisse remplir le trou). Donc en théorie pour chaque coin détenu par un tiers, l'entreprise doit avoir l'équivalent en monnaie.
-
-Examples :
-
-- USDT (le 1er à apparaitre)
-- USDC (Dominant dans la DEFI)
-
-#### Stablecoin décentralisé
-
-Mime une ou plusieurs cryptomonnaie(s), aucune entité ne gère ce stablecoin.
-Il est garanti par une cryptomonnaie
-
-Exemple : le Dai
-![[Reserves-du-DAI.png]]
-
-Il fait la moyenne de plusieurs cryptomonnaies, stable ou non.
-
-#### Stablecoin decentralisé algorithmique
-
-Utilise des algo très complexe pour manipuler le prix et se stabiliser.
-Garantie par aucun actif, seulement l'algo, il est donc difficile d'en faire un fiable.
-Il agit comme une banque centrale car il regule l'offre en circulation (les tokens).
-
-Exemple :
-
-- L'UST et le LUNA => on peut voir que c'est très instable.
-
-### Fiabilité
-
-La valeur d'un stable coin n'est pas 100% fiable, on peut voir sur les courbes qu'elle varie de quelques 1/100, et d'autres stablecoin se sont écroulés (UST de LUNA).
+Un token repose sur une blobkchain déjà existante (USDT, USDC, SHIBA, etc...)

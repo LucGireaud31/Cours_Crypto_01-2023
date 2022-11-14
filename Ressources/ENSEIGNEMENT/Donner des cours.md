@@ -7,6 +7,8 @@ Traduction:
 Date: 18/10/2022
 ---
 
+https://www.wooclap.com/blog/lapprentissage-par-les-pairs-deric-mazur/
+
 Cette note contient des conseils pour donner des cours compréhensibles pour les élèves, dynamique et leurs donner de l'attention. Je me suis inspiré d'Eva qui à une école d'infirmière à chier, #acompleter
 
 ## Le contenu
