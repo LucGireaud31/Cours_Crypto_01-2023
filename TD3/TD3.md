@@ -26,4 +26,6 @@ De plus si vous avez votre propre seed, il est moins probable qu'in hackeur vous
 
 ### Se renseigner
 
+![](../Archives/dogeHome.png)
+
 Regarder si vous trouvez un white paper, sa crédibilité, regarder le site si il parait sérieux.
